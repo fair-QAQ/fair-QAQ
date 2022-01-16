@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @fair-QAQ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👀Chinese.
+  🐱‍🐉Currently studying in Hubei, China.
+🐱‍🚀🐱‍🚀🐱‍🚀✨Internet of things Engineering
+🐱‍At present, he is still a little rookie.
+🐱‍🏍I hope you can give me more advice
 
-<!---
-fair-QAQ/fair-QAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
