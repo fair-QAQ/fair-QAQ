@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fair-QAQ
 -👀Chinese.
-  🐱‍🐉Currently studying in Hubei, China.
-🐱‍🚀🐱‍🚀🐱‍🚀✨Internet of things Engineering
-🐱‍At present, I am still a little rookie.
-🐱‍🏍I hope you can give me more advice
+  🐱‍🐉 Hubei, China.
+A growing automotive software engineer. Accustomed to using C and C++. Hopefully it can get better and better.
 
