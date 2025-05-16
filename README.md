@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>你好，我是 YUIRAN 👋</h1>
+  <h1>你好，我是 YURAN 👋</h1>
   <h3>来自中国的汽车嵌入式软件工程师</h3>
   
   <p>
-    <img src="https://img.shields.io/badge/所在地-中国-blue" alt="Location">
+    <img src="https://img.shields.io/badge/所在地-中国宁波-blue" alt="Location">
     <img src="https://img.shields.io/badge/领域-汽车软件-blueviolet" alt="Field">
     <img src="https://img.shields.io/badge/方向-嵌入式系统-green" alt="Specialization">
   </p>
